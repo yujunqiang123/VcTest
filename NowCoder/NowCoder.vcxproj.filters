@@ -29,5 +29,20 @@
     <ClInclude Include="HuaWei\HJ025.hpp">
       <Filter>头文件\HuaWei</Filter>
     </ClInclude>
+    <ClInclude Include="HuaWei\HJ018.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ068.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ028.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ094.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ101.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

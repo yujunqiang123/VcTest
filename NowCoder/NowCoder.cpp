@@ -1,14 +1,20 @@
 ﻿// NowCoder.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 //#include "HuaWei/HJ001.hpp"
-
+//#include "HuaWei/HJ018.hpp"
 //#include "HuaWei/HJ025.hpp"
+//#include "HuaWei/HJ068.hpp"
+//#include "HuaWei/HJ094.hpp"
+#include "HuaWei/HJ101.hpp"
 
 int main()
 {
     //HJ001();
-
+    //HJ018();
     //HJ025();
+    //HJ068();
+    //HJ094();
+    HJ101();
     return 0;
 }
 

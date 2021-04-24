@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClCompile Include="VcTest.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MapTest\MapTest.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
