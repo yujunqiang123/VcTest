@@ -1,11 +1,13 @@
 ﻿// VcTest.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 
-#include "MapTest/MapTest.hpp"
+//#include "MapTest/MapTest.hpp"
+#include "MapTest/NewInit.hpp"
 
 int main()
 {
-    MapTest();
+    //MapTest();
+    NewInitTest();
     return 0;
 }
 

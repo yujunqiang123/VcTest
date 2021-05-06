@@ -16,6 +16,9 @@
     <Filter Include="头文件\HuaWei">
       <UniqueIdentifier>{e052a534-1f90-443b-ae15-ccb11ecba343}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\HWExam">
+      <UniqueIdentifier>{ea14ea50-2c64-4797-8fe8-3c1db1f169fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="NowCoder.cpp">
@@ -43,6 +46,63 @@
     </ClInclude>
     <ClInclude Include="HuaWei\HJ101.hpp">
       <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ105.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ048.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ087.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ085.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ016.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ038.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ040.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ046.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ044.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ042.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ063.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ024.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ032.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ022.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ033.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HuaWei\HJ050.hpp">
+      <Filter>头文件\HuaWei</Filter>
+    </ClInclude>
+    <ClInclude Include="HWExam\HWExam01.hpp">
+      <Filter>头文件\HWExam</Filter>
+    </ClInclude>
+    <ClInclude Include="HWExam\HWExam02.hpp">
+      <Filter>头文件\HWExam</Filter>
+    </ClInclude>
+    <ClInclude Include="HWExam\HWExam03.hpp">
+      <Filter>头文件\HWExam</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

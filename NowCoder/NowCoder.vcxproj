@@ -155,12 +155,31 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HuaWei\HJ001.hpp" />
+    <ClInclude Include="HuaWei\HJ016.hpp" />
     <ClInclude Include="HuaWei\HJ018.hpp" />
+    <ClInclude Include="HuaWei\HJ022.hpp" />
+    <ClInclude Include="HuaWei\HJ024.hpp" />
     <ClInclude Include="HuaWei\HJ025.hpp" />
     <ClInclude Include="HuaWei\HJ028.hpp" />
+    <ClInclude Include="HuaWei\HJ032.hpp" />
+    <ClInclude Include="HuaWei\HJ033.hpp" />
+    <ClInclude Include="HuaWei\HJ038.hpp" />
+    <ClInclude Include="HuaWei\HJ040.hpp" />
+    <ClInclude Include="HuaWei\HJ042.hpp" />
+    <ClInclude Include="HuaWei\HJ044.hpp" />
+    <ClInclude Include="HuaWei\HJ046.hpp" />
+    <ClInclude Include="HuaWei\HJ048.hpp" />
+    <ClInclude Include="HuaWei\HJ050.hpp" />
+    <ClInclude Include="HuaWei\HJ063.hpp" />
     <ClInclude Include="HuaWei\HJ068.hpp" />
+    <ClInclude Include="HuaWei\HJ085.hpp" />
+    <ClInclude Include="HuaWei\HJ087.hpp" />
     <ClInclude Include="HuaWei\HJ094.hpp" />
     <ClInclude Include="HuaWei\HJ101.hpp" />
+    <ClInclude Include="HuaWei\HJ105.hpp" />
+    <ClInclude Include="HWExam\HWExam01.hpp" />
+    <ClInclude Include="HWExam\HWExam02.hpp" />
+    <ClInclude Include="HWExam\HWExam03.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
